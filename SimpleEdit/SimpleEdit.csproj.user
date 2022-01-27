@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="MainWindow.Code.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainWindow.ContextMenuStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainWindow.FileIO.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainWindow.StatusStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainWindow.TabControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainWindow.TextBox.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainWindow.ToolStrip.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsWindow.AutoSave.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsWindow.Color.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsWindow.Comipling.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsWindow.Highlight.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SettingsWindow.Logging.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
